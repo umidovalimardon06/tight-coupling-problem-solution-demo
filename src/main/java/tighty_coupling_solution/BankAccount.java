@@ -13,9 +13,10 @@ public class BankAccount {
 }
 
 /*
-    class isn't encapsulated
-    public member everyone can manipulate
-    no way to add validation/logging/auditing  (hard too many copy-pasting)
-    need to modify dependent classes
-    
+    now!
+    class is encapsulated
+    public member not everyone can manipulate
+    able add validation/logging/auditing  (hard too many copy-pasting)
+    no-need to modify dependent classes
+
  */
